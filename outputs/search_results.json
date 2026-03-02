@@ -1,0 +1,32 @@
+[
+  {
+    "cui": "C2931826",
+    "diagnosis": "",
+    "score": 0.41789543628692627,
+    "note_preview": "3. pulmonic valve replacement. 4. left atrial fibrillation. 5. myotonia, potassium-aggravated . 6. peripheral arterial disease. 7. aortic stenosis. 8. chronic obstructive pulmonary disease. social his"
+  },
+  {
+    "cui": "C1558407",
+    "diagnosis": "pulmonary embolus",
+    "score": 0.3292592465877533,
+    "note_preview": "sig: one (1) tablet po bid for 10 days. disp:*10 tablet(s)* refills:*0* discharge disposition: home with service discharge diagnosis: 1. pulmonary embolus 2. primary pulmonary hypertension 3. grade 1 "
+  },
+  {
+    "cui": "C0345904",
+    "diagnosis": "HCV",
+    "score": 0.27201521396636963,
+    "note_preview": "2. hcv. 3. cirrhosis. 4. hepatic neoplasm malignant (liver cancer). 5. chronic lymphocytic leukemia. 6. hypertension. 7. coronary artery disease. 8. aortic stenosis. 9. peripheral arterial disease. 10"
+  },
+  {
+    "cui": "C0857576",
+    "diagnosis": "",
+    "score": 0.2587299346923828,
+    "note_preview": "sex: f service: cardiothoracic history of present illness: the patient is a 46 year old female with a history of hypothyroidism and hyperlipidemia. she was admitted to on with an elevated tsh and abno"
+  },
+  {
+    "cui": "C1560000",
+    "diagnosis": "",
+    "score": 0.2572938799858093,
+    "note_preview": "his chest x-ray showed a right upper lobe opacity. he was started on piperacillin-tazobactam and levofloxacin for a ctcae grade 4 arthritis (non-septic) . his cmv igg was negative, but his cmv igm was"
+  }
+]
