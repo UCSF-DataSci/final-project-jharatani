@@ -376,7 +376,7 @@ df_extract["diagnosis"] = df_extract["extraction"].apply(
 
 corpus = df_extract[["cui", "diagnosis", "note"]].reset_index(drop=True)
 
-N_P2 = 2000  # start small
+N_P2 = 50  # start small
 corpus = corpus.sample(n=min(N_P2, len(corpus)), random_state=2026).reset_index(drop=True)
 
 notes_p2 = corpus["note"].tolist()
@@ -442,3 +442,7 @@ with open("outputs/search_results.json", "w", encoding="utf-8") as f:
     json.dump(search_results, f, indent=2)
 
 print(f"Saved {len(search_results)} search results to outputs/search_results.json")
+
+
+
+

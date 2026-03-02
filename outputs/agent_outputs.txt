@@ -1,0 +1,27 @@
+Query: patient with heart attack symptoms and high WBC
+Response:
+Based on the semantic search results, I found two potential notes that mention heart attack symptoms and high WBC levels.
+
+The first note is related to a patient with coronary artery disease, hyperlipidemia, hypertension, and osteoarthritis. The second note mentions pulmonic valve replacement, left atrial fibrillation, myotonia, potassium-aggravated, peripheral arterial disease, aortic stenosis, chronic obstructive pulmonary disease, and piperacillin-tazobactam and levofloxacin for a CTCAE grade 4 arthritis.
+
+However, the most relevant note to both symptoms is:
+
+**C1560000**
+
+This note mentions chest x-ray showing a right upper lobe opacity, which could be indicative of a heart attack. It also mentions that the patient was started on piperacillin-tazobactam and levofloxacin for a CTCAE grade 4 arthritis.
+
+The triage level is **URGENT** due to the presence of high WBC levels, which may indicate an infection or inflammation.
+
+Red flags:
+
+* High WBC levels
+* Chest x-ray showing a right upper lobe opacity
+
+Next steps:
+1. Further evaluation and testing for infections or inflammatory conditions.
+2. Consider administering antibiotics or other treatments as needed.
+3. Monitor the patient's condition closely and adjust treatment as necessary.
+
+Disclaimer: This is an educational example only. If you are a medical professional, please consult with a qualified healthcare expert before providing any treatment or guidance.
+==================================================
+
