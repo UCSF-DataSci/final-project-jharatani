@@ -1,5 +1,6 @@
 # DATASCI_223_Final_Project_W26
 Final Project for DS 223 W2026. Using dataset from **Synthetic Mention Corpora for Disease Entity Recognition and Normalization Study**, found via PhysioNet (thx Chris).
+**Please note the dataset was very large - so to view entire dataset please refer to DOI link on physionet - it is provided publicly**
 
 Sasse, Kuleen, and John David Osborne. "Synthetic Mention Corpora for Disease Entity Recognition and Normalization" (version 1.0.0). PhysioNet (2025). RRID:SCR_007345. https://doi.org/10.13026/p5pn-ty93
 
