@@ -261,7 +261,7 @@ for i, note in enumerate(notes_p1, 1):
         print("Extraction failed")
     print()
 
-# ---- Part 1: run extraction on ~50 notes ----
+# ---- Part 1: run extraction on 50 notes ----
 
 synth_use = synth_use.reset_index(drop=True)
 
