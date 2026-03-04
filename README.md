@@ -109,10 +109,6 @@ Next steps:
 2. Consider administering antibiotics or other treatments as needed.
 3. Monitor the patient's condition closely and adjust treatment as necessary.
 
-Disclaimer: This is an educational example only. If you are a medical professional, please consult with a qualified healthcare expert before providing any treatment or guidance.
-==================================================
-
-
 ## Citations
 Dataset:
 Sasse, Kuleen, and John David Osborne. "Synthetic Mention Corpora for Disease Entity Recognition and Normalization" (version 1.0.0). PhysioNet (2025). RRID:SCR_007345. https://doi.org/10.13026/p5pn-ty93
