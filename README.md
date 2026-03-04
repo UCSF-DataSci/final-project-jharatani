@@ -9,9 +9,13 @@ We use a pretrained large language model to perform structured information extra
 
 **Pt. 1**
 
-The model outputs standardized JSON fields (diagnosis, medications, lab values, confidence), producing a machine-readable dataset for downstream semantic search.
+The model takes the synthetic provided data in csv format and outputs standardized JSON fields (diagnosis, medications, lab values, confidence), producing a machine-readable dataset for downstream semantic search. 
 
 
 **Pt. 2**
 
- Now we have merged our json file output diagnoses and performed a semantics search to further assess the data.
+This is where we have merged our json file output diagnoses and performed a semantics search to further assess the data. More specifically, we have loaded the extracted records from Pt.1, converted them into embedding vectors using a local model, and built a searchable corpus. If given a query, the local model was able to find the most semantically similar notes using cosine similarity.
+
+**Pt. 3**
+
+Now we add an agent to the mix, and ask it natural language questions about the output from Pt.1/2. The expectation is for the agent to look at the query, match any records to the query based on key words or indications and provide a triage level, red flags, next steps and a disclaimer. So if we provide a query mentioning a patient with heart attack symptoms and high WBC, it will find records describing similar circumstances, further assess the clinical notes, and come up with a course of action. 
